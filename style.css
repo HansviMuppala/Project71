@@ -1,0 +1,27 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 9999px;
+}
+li{
+    color: white;
+    
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    margin-left: 230px;
+}
+
+#school{
+margin-top: 10px;
+width: 280px;
+height: 280px;
+margin-left: 480px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+    color: goldenrod;
+}
